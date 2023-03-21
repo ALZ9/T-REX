@@ -1,2 +1,2 @@
-# T-REX
-iub
+# t-rex
+jogo do t-rex do chrome
